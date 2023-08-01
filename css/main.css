@@ -1,0 +1,261 @@
+
+
+
+
+
+.item{
+    background-color: #cce5ff!important;
+    height: 100px !important;
+}
+.item2{
+    width: 35px !important;
+    height: 35px !important;
+    background-color: white !important;
+    border: 1px solid white !important;
+    position: absolute!important;
+    left: 60px!important;
+}
+.square{
+    background-color: white!important;
+    height: 40px!important;
+    width: 140px!important;
+    position: relative!important;
+    top: 22px!important;
+    left: 25px!important;
+
+
+}
+.text-m{
+    font-size: 18px!important;
+    position: absolute!important;
+    left: 85px!important;
+    bottom: -10px!important;
+}
+.korzina{
+    position: absolute!important;
+    left: 8px!important;
+    bottom: 3px!important;
+}
+.nol{
+    width: 30px!important;
+    position: absolute!important;
+    left: 50px!important;
+    bottom: 5px!important;
+}
+.odam{
+    width: 35px !important;
+    height: 35px !important;
+    background-color: white !important;
+    border: 1px solid white !important;
+    position: absolute!important;
+    left: 30px!important;
+    top: 26px!important;
+}
+.red{
+    width: 30px!important;
+    height: 30px!important;
+    background-color: indianred!important;
+}
+.grey{
+ background-color: lightgray;
+}
+.bacground{
+    background-image: url("../e-Commerce/images/color_body_bg_image.jpg");
+}
+.column{
+    column-count: 2!important;
+    column-rule: 5px solid deepskyblue!important;
+}
+.j-bg{
+    background-color: #27eac1!important;
+}
+.white-s{
+    width: 50px !important;
+    height: 50px !important;
+    background-color: white !important;
+}
+.umumiy{
+
+}
+.card-shade{
+    box-shadow: 0 10px 10px 0 grey !important;
+}
+.img-bg{
+    background-image: url("../e-Commerce/boot.webp") !important;
+    background-repeat: no-repeat!important;
+    background-size: 100% !important;
+}
+.bg-pink{
+    background-color: pink;
+}
+.square-k{
+    width: 30px;
+    height: 30px;
+    background-color: #17a2b8;
+
+}
+.square-q{
+    width: 30px;
+    height: 30px;
+    background-color: red;
+}
+.create{
+    position: absolute!important;
+    left: 100px!important;
+}
+.return{
+    position: absolute;
+    top: 20px;
+    left: 100px;
+}
+.icons{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+
+}
+.position{
+    position: absolute!important;
+    right: 100px!important;
+    bottom: -300px!important;
+}
+.p1{
+    position: absolute!important;
+    right:16px!important;
+}
+.margin{
+    position: relative!important;
+    left: 50px!important;
+}
+.p2{
+    position: relative!important;
+    right: 80px!important;
+}
+.plus{
+    position: relative!important;
+    left: 120px!important;
+}
+.fuature{
+    position: relative!important;
+    left: 20px!important;
+}
+.show1{
+position: relative!important;
+    top: -4px!important;
+    left: 100px!important;
+}
+.image{
+    position: relative;
+    right: 26px!important;
+}
+.sale{
+    position: absolute;
+    top: 20px!important;
+}
+.card-p{
+    position: relative;
+    left: 260px!important;
+}
+.list-p{
+    position: relative;
+    bottom: 100px!important;
+}
+.cardp{
+    position: relative;
+    bottom: 80px!important;
+    top: 180px!important;
+}
+.card1{
+    position: relative;
+    bottom: -150px!important;
+}
+.p3{
+    position: relative;
+    bottom: 100px!important;
+}
+.p4{
+    position: relative;
+    bottom: 210px!important;
+}
+.bg-y{
+    background-color:lemonchiffon!important;
+}
+.btn-y{
+    background-color: #39ffcf;
+}
+.rasm{
+    position: relative;
+    left: 100px!important;
+    bottom: 100px;
+}
+.card-bottom{
+    position: relative;
+    bottom: 120px!important;
+}
+.card-p2{
+    position: relative;
+    top: 50px!important;
+    left: -20px;
+}
+.btn-p{
+    position: relative;
+    top: 50px!important;
+    right: 20px;
+
+}
+.img-p{
+    position: relative;
+
+}
+.img1{
+    position: relative;
+    left: 50px!important;
+}
+.img2{
+    position: relative;
+    left: 80px!important;
+}
+.img3{
+    position: relative;
+    left: 100px!important;
+}
+.starp{
+    position: relative;
+    left:5px!important;
+}
+.sub{
+    position: relative;
+    right: 70px!important;
+   top: 40px!important;
+}
+.arabella{
+    position: relative;
+    left: 90px!important;
+}
+.arabellap{
+    position: relative;
+    right: -36px!important;
+}
+.arabella-p{
+    position: relative;
+    right: -45px;
+}
+.p5{
+    position: relative;
+    bottom: -100px!important;
+}
+.p6{
+    position: relative;
+    bottom: 80px!important;
+}
+.p7{
+    position: relative;
+    bottom: 100px!important;
+}
+.img-p2{
+    position: relative;
+    left: 840px!important;
+    bottom: 180px;
+
+}
